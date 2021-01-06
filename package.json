@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bsv": "^1.5.3",
     "electrum-ecies": "^1.1.8",
     "express": "^4.17.1",
